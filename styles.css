@@ -1,0 +1,59 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #fdd7e4;
+    color: #fff;
+}
+
+header img {
+    width: 150px; /* Ajusta el ancho según tus necesidades */
+    height: 150px; /* Hace que la altura se ajuste automáticamente manteniendo la proporción original */
+    border-radius: 50%; /* Un ejemplo de borde redondeado para la imagen */
+}
+
+section {
+    margin-bottom: 5px;
+    padding: 5px;
+    background-color: #ecf0f1;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#habilidades ul {
+    list-style-type: disc; /* Puedes cambiar 'disc' a 'circle' o 'square' según tu preferencia */
+    margin-left: 20px; /* Ajusta el margen izquierdo según sea necesario */
+    padding-left: 0; /* Asegúrate de que no haya relleno izquierdo para la lista */
+}
+
+p {
+    text-align: justify;
+}
+
+
+h2 {
+    color: #2c3e50;
+}
+
+#contacto p {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+ 
+}
+
